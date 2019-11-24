@@ -1,0 +1,22 @@
+.hello {color: white;
+  background-color: green;
+  text-align: center;
+  padding: 15px
+}
+.schedule {float: right;}
+.roster {float: left;}
+.num1{
+  float:right;
+}
+h2 {color: green;}
+h1 {color: green;}
+h3 {color: green;
+}
+.jaylen{width: 750px}
+.link{text-align: center;}
+
+.image{
+  height: 200px;
+  width: 200px;
+
+}
